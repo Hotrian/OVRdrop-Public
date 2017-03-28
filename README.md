@@ -1,4 +1,4 @@
-![logo](http://ovrdrop.hotrian.com/resources/OVRdropLogo.png)
+[![logo](http://ovrdrop.hotrian.com/resources/OVRdropLogo.png)](http://ovrdrop.hotrian.com)
 
 **Post a Bug Report or Request a Feature [on the Issue Tracker page](https://github.com/Hotrian/OVRdrop-Public/issues).**
 
