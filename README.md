@@ -17,4 +17,4 @@ OVRdrop is a Utility Application for SteamVR that can mirror a Desktop Window, a
 - **Join the conversation or ask for help on [our subreddit](https://www.reddit.com/r/OVRdrop/)**.
 
 
-[![steamwidget](http://ovrdrop.hotrian.com/resources/OVRdropWidget-15Sale.png)](http://store.steampowered.com/app/586210)
+[![steamwidget](http://ovrdrop.hotrian.com/resources/OVRdropWidget.png)](http://store.steampowered.com/app/586210)
