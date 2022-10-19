@@ -1,4 +1,4 @@
-[![logo](http://ovrdrop.hotrian.com/resources/OVRdropLogo.png)](http://ovrdrop.hotrian.com)
+[![logo](http://ovrdrop.com/resources/OVRdropLogo.png)](http://ovrdrop.com)
 
 **Post a Bug Report or Request a Feature [on the Issue Tracker page](https://github.com/Hotrian/OVRdrop-Public/issues).**
 
@@ -17,4 +17,4 @@ OVRdrop is a Utility Application for SteamVR that can mirror a Desktop Window, a
 - **Join the conversation or ask for help on [our subreddit](https://www.reddit.com/r/OVRdrop/)**.
 
 
-[![steamwidget](http://ovrdrop.hotrian.com/resources/OVRdropWidget.png)](http://store.steampowered.com/app/586210)
+[![steamwidget](http://ovrdrop.com/resources/OVRdropWidget.png)](http://store.steampowered.com/app/586210)
